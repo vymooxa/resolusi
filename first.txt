@@ -3,3 +3,6 @@ Resolusi
 
 Belajar :
 Github
+PHP
+Laravel
+Web
