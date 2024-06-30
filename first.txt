@@ -1,8 +1,11 @@
 Resolusi
 - Konsisten untuk belajar coding lagi
+- Update CV
+- Memasukkan semua project ke dalam Github
 
 Belajar :
 Github
 PHP
 Laravel
 Web
+Wordpress
